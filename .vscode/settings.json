@@ -1,0 +1,42 @@
+{
+  "python.pythonPath": "/home/darrenwu/anaconda3/envs/finlab/bin/python",
+  "cSpell.words": [
+    "asign",
+    "astype",
+    "candlestick",
+    "clist",
+    "codes",
+    "colorup",
+    "cond",
+    "csvfile",
+    "ctime",
+    "date",
+    "divs",
+    "dropna",
+    "inplace",
+    "isdigit",
+    "isfile",
+    "loffset",
+    "nargs",
+    "numpy",
+    "ohlc",
+    "parametrize",
+    "path",
+    "pyplot",
+    "pytest",
+    "sscan",
+    "stockid",
+    "strftime",
+    "talib",
+    "tpex",
+    "twse",
+    "twstock",
+    "xaxis"
+  ],
+  "python.testing.pyTestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pyTestEnabled": true
+}
